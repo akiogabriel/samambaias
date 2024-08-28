@@ -590,7 +590,7 @@ footer{
     }
 }
 
-@media screen and (min-device-width:480px) and (max-width: 900px) /* mobile */
+@media screen and (min-device-width:300px) and (max-width: 900px) /* mobile */
 {	 
     
     /*---nav---*/
